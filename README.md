@@ -7,15 +7,38 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Tech Stack
+
+<table>
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>React, Angular, HTML5, CSS3, Tailwind CSS, JavaScript</td>
+</tr>
+<tr>
+  <td><strong>Backend</strong></td>
+  <td>Node.js, Express, NestJS, REST API</td>
+</tr>
+<tr>
+  <td><strong>Languages</strong></td>
+  <td>C++, JavaScript, TypeScript, SQL, Golang</td>
+</tr>
+<tr>
+  <td><strong>Other Tools</strong></td>
+  <td>OpenCV, Git, Postman, MongoDB, MySQL, Docker</td>
+</tr>
+</table>
+
+---
+
+## 📘 Known Languages & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jade-00DC82?style=for-the-badge&logo=pug&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ---
