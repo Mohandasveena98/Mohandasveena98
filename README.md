@@ -52,13 +52,13 @@
 ### 📫 Let's Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/mohandas-m-01bb8472" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto: mohandasveena98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://mohandasveena98.github.io/Mohandas_Profile/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
 </p>
